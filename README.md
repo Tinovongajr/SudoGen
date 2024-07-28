@@ -2,11 +2,13 @@
 
 ---
 
+![SudoGen Logo](https://github.com/user-attachments/assets/e39e03a9-fa88-4c81-ab94-9bb0eccd0be7)
+
 
 # SudoGen (A Sudoku Generator)
 
 This Python program generates and solves Sudoku puzzles. It uses a combination of random number generation and a backtracking algorithm to create a valid Sudoku grid and then remove some numbers to form the puzzle.
-![SudoGen Logo](https://github.com/user-attachments/assets/e39e03a9-fa88-4c81-ab94-9bb0eccd0be7)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
